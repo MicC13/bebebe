@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c05b515b-457d-47a4-92ec-72a6e79562c6" name="Changes" comment="хм">
-      <change afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/task - 14 - 19246.py" afterDir="false" />
+    <list default="true" id="c05b515b-457d-47a4-92ec-72a6e79562c6" name="Changes" comment="бебебе">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-01-25/task - 14 - 12246.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/task 14 - 19406.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/task 15 - 1859.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/task - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/task - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/task - 14 - 19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/task - 14 - 19246.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +51,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.18916.executor": "Run",
     "Python.task -  5 - 19237.executor": "Run",
+    "Python.task - 14 - 12246.executor": "Run",
     "Python.task - 14 - 19246.executor": "Run",
     "Python.task - 8 - 19240.executor": "Run",
+    "Python.task 14 - 19406.executor": "Run",
+    "Python.task 15 - 1859.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/MPatsera/Desktop/bebebe"
+    "last_opened_file_path": "C:/Users/MPatsera/Desktop/bebebe/ЕГКР 21-12-24"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -95,13 +104,22 @@
       <option name="project" value="LOCAL" />
       <updated>1734967931352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="бебебе">
+      <option name="closed" value="true" />
+      <created>1735227180992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735227180992</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello start" />
     <MESSAGE value="ура" />
     <MESSAGE value="хм" />
-    <option name="LAST_COMMIT_MESSAGE" value="хм" />
+    <MESSAGE value="бебебе" />
+    <option name="LAST_COMMIT_MESSAGE" value="бебебе" />
   </component>
 </project>
